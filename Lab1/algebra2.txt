@@ -1,0 +1,20 @@
+Different meanings of "algebra"
+The word "algebra" has several related meanings in mathematics, as a single word or with qualifiers.
+
+As a single word without an article, "algebra" names a broad part of mathematics.
+As a single word with an article or in plural, "an algebra" or "algebras" denotes a specific mathematical structure, whose precise definition depends on the author. Usually, the structure has an addition, multiplication, and a scalar multiplication (see Algebra over a field). When some authors use the term "algebra", they make a subset of the following additional assumptions: associative, commutative, unital, and/or finite-dimensional. In universal algebra, the word "algebra" refers to a generalization of the above concept, which allows for n-ary operations.
+With a qualifier, there is the same distinction:
+Without an article, it means a part of algebra, such as linear algebra, elementary algebra (the symbol-manipulation rules taught in elementary courses of mathematics as part of primary and secondary education), or abstract algebra (the study of the algebraic structures for themselves).
+With an article, it means an instance of some abstract structure, like a Lie algebra, an associative algebra, or a vertex operator algebra.
+Sometimes both meanings exist for the same qualifier, as in the sentence: Commutative algebra is the study of commutative rings, which are commutative algebras over the integers.
+Algebra as a branch of mathematics
+Algebra began with computations similar to those of arithmetic, with letters standing for numbers.[4] This allowed proofs of properties that are true no matter which numbers are involved. For example, in the quadratic equation
+
+{\displaystyle ax^{2}+bx+c=0,} ax^{2}+bx+c=0,
+{\displaystyle a,b,c} a,b,c can be any numbers whatsoever (except that {\displaystyle a} a cannot be {\displaystyle 0} {\displaystyle 0}), and the quadratic formula can be used to quickly and easily find the values of the unknown quantity {\displaystyle x} x which satisfy the equation. That is to say, to find all the solutions of the equation.
+
+Historically, and in current teaching, the study of algebra starts with the solving of equations such as the quadratic equation above. Then more general questions, such as "does an equation have a solution?", "how many solutions does an equation have?", "what can be said about the nature of the solutions?" are considered. These questions led extending algebra to non-numerical objects, such as permutations, vectors, matrices, and polynomials. The structural properties of these non-numerical objects were then abstracted into algebraic structures such as groups, rings, and fields.
+
+Before the 16th century, mathematics was divided into only two subfields, arithmetic and geometry. Even though some methods, which had been developed much earlier, may be considered nowadays as algebra, the emergence of algebra and, soon thereafter, of infinitesimal calculus as subfields of mathematics only dates from the 16th or 17th century. From the second half of 19th century on, many new fields of mathematics appeared, most of which made use of both arithmetic and geometry, and almost all of which used algebra.
+
+Today, algebra has grown until it includes many branches of mathematics, as can be seen in the Mathematics Subject Classification[7] where none of the first level areas (two digit entries) is called algebra. Today algebra includes section 08-General algebraic systems, 12-Field theory and polynomials, 13-Commutative algebra, 15-Linear and multilinear algebra; matrix theory, 16-Associative rings and algebras, 17-Nonassociative rings and algebras, 18-Category theory; homological algebra, 19-K-theory and 20-Group theory. Algebra is also used extensively in 11-Number theory and 14-Algebraic geometry.
